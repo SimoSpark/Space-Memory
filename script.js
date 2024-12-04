@@ -1,3 +1,4 @@
+//trying to create other script !!!!!!!!!!!!!!!!!!!!!!!
 const spaceEmojis = ['🚀', '🛰️', '🌍', '🌕', '🌠', '☄️', '🛸', '🌌'];
 const gameGrid = document.getElementById('gameGrid');
 const moveCountDisplay = document.getElementById('moveCount');
